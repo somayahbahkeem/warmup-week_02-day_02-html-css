@@ -1,0 +1,35 @@
+body{
+    border-top: 10px solid black;
+    border-bottom:10px solid black;
+    font-family: sans-serif;
+    margin:120px;
+    background-color:rgb(240, 234, 234);
+}
+.nav-part{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+}
+ strong{
+    font-style: italic;
+}
+main nav a{
+    color: black;
+    font-weight: bold;
+   
+}
+.nav-part a{
+    color: black;
+}
+main nav{
+    text-align: center;
+    margin-bottom: 10px;
+}
+img{
+    display: block;
+   border: 1px solid black;
+   margin-top: 29px;
+   margin-left: 15%;
+   margin-right: 25%;
+   margin-bottom: 40px;
+}

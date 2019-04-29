@@ -1,0 +1,51 @@
+
+body{
+    border-top: 10px solid black;
+    border-bottom:10px solid black;
+    font-family: sans-serif;
+    margin:120px;
+    background-color:rgb(240, 234, 234);
+}
+.nav-part{
+    text-align: center;
+    margin-top: 40px;
+    font-size: 30px;
+}
+.nav-part strong{
+    font-style: italic;
+}
+.nav-part a{
+    color: black;
+   
+
+}
+main img {
+    float: right;
+    border: 5px solid black;
+    padding: 5px;
+    height: 200px;
+    width: 200px;
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+main{
+    height: 450px;
+    width: 80%;
+    margin: 0 auto;
+}
+main p{
+    margin-bottom: 150px;
+    font-size: 28px;
+}
+main nav{
+    text-align: center;
+    font-size: 18px;
+    margin-top: 30px;
+    font-weight: bold;
+   
+}
+main nav a{
+    color: black;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
